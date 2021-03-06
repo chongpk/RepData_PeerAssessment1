@@ -67,7 +67,7 @@ ggplot(Total_Steps, aes(x = steps)) +
 
     ## Warning: Removed 8 rows containing non-finite values (stat_bin).
 
-![](https://github.com/DeftPenk/reproducibleresearch/blob/master/Project1/unnamed-chunk-1.png)
+![](https://github.com/chongpk/RepData_PeerAssessment1/blob/master/unnamed-chunk-1.png)
 
 1.  Calculate and report the mean and median of the total number of steps taken per day
 
